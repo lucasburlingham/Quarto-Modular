@@ -1,0 +1,145 @@
+---
+# Oil Change Guide for 2005 Honda CRV
+---
+
+# How to Change Oil on a 2005 Honda CRV
+
+## Overview
+
+The 2005 Honda CRV requires regular oil changes to maintain engine health and performance. This guide provides step-by-step instructions for performing this essential maintenance task.
+
+**Engine Capacity:** Approximately 3.7 quarts (3.5 liters)
+
+**Recommended Oil Type:** 0W-20 or 5W-20 Honda HG specification motor oil
+
+**Change Interval:** Every 7,500 miles or 6 months
+
+---
+
+## Safety Precautions
+
+- ⚠️ Allow the engine to cool before starting (wait 5-10 minutes after running)
+- ⚠️ Ensure the vehicle is parked on a level, stable surface
+- ⚠️ Engage the parking brake
+- ⚠️ Wear safety glasses to protect from dripping oil
+- ⚠️ Have absorbent materials ready for spills
+- ⚠️ Never dispose of used oil improperly—take it to a recycling center
+
+---
+
+## Tools and Materials Required
+
+**Tools:**
+- Socket set (3/8" drive)
+- Oil filter wrench or strap wrench
+- Oil drain pan (capacity at least 5 quarts)
+- Jack and jack stands (if lifting vehicle)
+- Ramps or jack stand alternatives
+- Funnel
+- Shop towels or rags
+- Torque wrench (optional but recommended)
+
+**Materials:**
+- New oil filter (Honda P/N: 15400-PLM-A01 or equivalent)
+- 4 quarts (3.7 liters) of recommended motor oil
+- Gasket from filter kit (if not pre-installed)
+
+---
+
+## Step-by-Step Instructions
+
+### Step 1: Prepare the Vehicle
+
+1. Park on a level surface
+2. Engage parking brake
+3. Allow engine to cool for 5-10 minutes (warm oil drains better, but cold is safer)
+4. Raise the vehicle if necessary using ramps or jack stands
+5. Locate the access panel on the undercarriage (driver side)
+
+### Step 2: Remove the Oil Drain Plug
+
+1. Place the oil drain pan directly under the drain plug
+2. Using a socket wrench, carefully loosen the drain plug (located at the bottom of the oil pan)
+3. Unscrew by hand once loosened
+4. Allow oil to drain completely (approximately 5-10 minutes)
+5. Wipe the drain plug clean with a shop towel
+
+### Step 3: Replace the Oil Filter
+
+1. Locate the oil filter (top of the engine)
+2. Position drain pan underneath
+3. Using an oil filter wrench, loosen the filter by turning counterclockwise
+4. Remove by hand and discard
+5. Install new filter with gasket:
+   - Hand-tighten only
+   - Do not use a wrench to tighten
+   - Filter should be snug but not overly tight
+
+### Step 4: Reinstall the Drain Plug
+
+1. Inspect the drain plug washer for damage
+2. Replace if necessary
+3. Reinstall the drain plug with torque wrench (set to 33 ft-lbs)
+4. If no torque wrench available, tighten firmly but do not over-tighten
+
+### Step 5: Add New Oil
+
+1. Locate oil filler cap on top of engine (marked with oil can symbol)
+2. Remove cap
+3. Insert funnel
+4. Pour 3.7 quarts of recommended oil
+5. Replace oil filler cap
+6. Close access panel if removed
+
+### Step 6: Check Oil Level
+
+1. Start the engine and let run for 10-15 seconds
+2. Turn off engine and wait 2 minutes
+3. Remove dipstick (if equipped)
+4. Wipe clean and reinsert
+5. Pull out and check level (should be at or near "Full" mark)
+6. Add small amounts if necessary
+
+### Step 7: Final Inspection
+
+1. Check for leaks around drain plug and filter
+2. Lower vehicle to ground level if raised
+3. Dispose of used oil at recycling center or auto parts store
+4. Record oil change in maintenance log
+
+---
+
+## Troubleshooting
+
+| Issue | Cause | Solution |
+|-------|-------|----------|
+| Oil leaking from drain plug | Plug over-tightened or damaged washer | Re-torque to specification or replace washer |
+| Oil leaking from filter | Filter not seated properly | Remove and reinstall with new gasket |
+| Low oil pressure light stays on | Insufficient oil or air in filter | Add oil or run engine briefly to prime filter |
+| Oil burning smell | Overfilled or oil on exhaust | Check level and wipe any spilled oil |
+
+---
+
+## Maintenance Records
+
+Document each oil change below for reference:
+
+| Date | Mileage | Oil Type | Next Service | Notes |
+|------|---------|----------|--------------|-------|
+| | | | | |
+| | | | | |
+| | | | | |
+
+---
+
+## Additional Tips
+
+- Keep oil change records for warranty and resale purposes
+- Consider changing the air filter at the same time
+- Check other fluid levels while working under the hood
+- In winter, use thinner oil (0W-20) for easier cold starts
+- Save receipts for parts purchased
+
+---
+
+*For additional Honda CRV maintenance information, consult your owner's manual or contact a Honda dealer.*

@@ -1,0 +1,189 @@
+---
+# Appendix B: Maintenance Schedule
+---
+
+# Appendix B: Maintenance Schedule
+
+## 2005 Honda CRV Recommended Maintenance Schedule
+
+Proper maintenance extends vehicle life and ensures optimal performance. This appendix provides a comprehensive maintenance schedule based on manufacturer recommendations and industry standards.
+
+---
+
+## Oil and Filter Changes
+
+| Service Interval | Frequency | Notes |
+|------------------|-----------|-------|
+| Oil and Filter Change | Every 7,500 miles or 6 months | Whichever comes first |
+| First oil change | 1,000 miles or 1 month | Break-in period |
+| Synthetic oil extension | Up to 10,000 miles | If using synthetic oil |
+
+### Oil Change Checklist
+- ☐ Drain old oil
+- ☐ Replace oil filter
+- ☐ Install new oil
+- ☐ Check oil level after running
+- ☐ Document mileage and date
+
+---
+
+## Air Filter Maintenance
+
+| Service | Interval | Cost | DIY Possible |
+|---------|----------|------|--------------|
+| Engine Air Filter Replacement | Every 15,000-20,000 miles | $25-$40 | ✓ Yes |
+| Cabin Air Filter Replacement | Every 12,000-15,000 miles | $35-$65 | ✓ Yes |
+
+### Inspection Schedule
+- Check air filters every 6,000 miles
+- Replace if dirty or clogged
+- Visual inspection during oil changes
+
+---
+
+## Fluid Levels - Check Every Month
+
+| Fluid | Check Frequency | Service Interval | Cost |
+|-------|-----------------|-----------------|------|
+| Engine Oil | Monthly | Every 7,500 miles | $30-$60 |
+| Coolant | Monthly | Every 30,000 miles | $40-$80 |
+| Transmission Fluid | Quarterly | Every 30,000 miles | $100-$200 |
+| Brake Fluid | Quarterly | Every 2 years | $50-$100 |
+| Power Steering Fluid | Quarterly | Every 60,000 miles | $70-$120 |
+
+### Fluid Check Procedures
+1. Park on level surface
+2. Engine cold (or 5 minutes after running)
+3. Locate reservoir cap
+4. Check level against minimum/maximum marks
+5. Top up with approved fluid if low
+
+---
+
+## Tire Maintenance
+
+| Service | Frequency | DIY | Cost |
+|---------|-----------|-----|------|
+| Tire Rotation | Every 7,500 miles | ✓ Yes | $0-$40 |
+| Wheel Balance | Every 15,000 miles | ✗ No | $15-$30 |
+| Tire Pressure Check | Weekly | ✓ Yes | $0 |
+| Tire Replacement | Every 30,000-60,000 miles | ✗ No | $400-$800 |
+
+### Recommended Tire Pressure
+- Front: 32 PSI
+- Rear: 32 PSI
+- Check when tires are cold (before driving)
+
+---
+
+## Brake System
+
+| Service | Interval | DIY | Cost |
+|---------|----------|-----|------|
+| Brake Pad Inspection | Every 15,000 miles | ✓ Possible | $0 |
+| Brake Pad Replacement | Every 20,000-70,000 miles | ✗ No | $300-$600 |
+| Brake Fluid Flush | Every 2 years | ✗ No | $100-$200 |
+
+### Warning Signs
+- ⚠️ Brake warning light on
+- ⚠️ Soft or spongy brakes
+- ⚠️ Grinding sounds when braking
+- ⚠️ Longer stopping distances
+
+---
+
+## Spark Plugs and Ignition
+
+| Service | Interval | Cost | Notes |
+|---------|----------|------|-------|
+| Spark Plug Replacement | Every 30,000 miles | $100-$200 | Consider gap adjustment |
+| Ignition Coil Inspection | Every 30,000 miles | $0 | Visual check only |
+
+---
+
+## Seasonal Maintenance
+
+### Spring Maintenance
+- ☐ Check battery condition
+- ☐ Inspect windshield wipers
+- ☐ Check A/C system
+- ☐ Rotate tires
+
+### Summer Maintenance
+- ☐ Check coolant level
+- ☐ Verify air conditioning
+- ☐ Inspect hoses for cracks
+- ☐ Check tire pressure (increased with heat)
+
+### Fall Maintenance
+- ☐ Inspect battery (prepare for winter)
+- ☐ Check heater functionality
+- ☐ Replace wiper blades if worn
+- ☐ Check fluid levels
+
+### Winter Maintenance
+- ☐ Use winter-grade oil if recommended
+- ☐ Check battery charge
+- ☐ Verify defroster operation
+- ☐ Check traction/stability systems
+
+---
+
+## Annual Major Services (30,000, 60,000, 90,000 mile marks)
+
+| Mileage | Recommended Services | Estimated Cost |
+|---------|----------------------|-----------------|
+| 30,000 | Air filter, fluid flush, inspection | $200-$400 |
+| 60,000 | Transmission service, coolant flush | $300-$600 |
+| 90,000 | Comprehensive inspection, brake service | $400-$800 |
+
+---
+
+## Maintenance Log Template
+
+Record all services for reference:
+
+| Date | Mileage | Service Performed | Cost | Next Service Due | Technician |
+|------|---------|-------------------|------|-----------------|------------|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+---
+
+## Emergency Service
+
+### When to Seek Immediate Service
+
+- Red oil pressure light
+- Red engine temperature light
+- Brake failure
+- Loss of power steering
+- Transmission slipping
+- Smoke or flames from engine
+
+### Recommended Emergency Kit
+
+Keep in vehicle at all times:
+- Jumper cables
+- Spare tire
+- Tire repair kit
+- Basic tool kit
+- Flashlight
+- Flares or reflective triangles
+- First aid kit
+
+---
+
+## Resources
+
+- **Owner's Manual:** Consult for vehicle-specific intervals
+- **Honda Dealer:** Expert advice and warranty-approved service
+- **Manufacturer Recalls:** Check NHTSA website (NHTSA.gov)
+- **Fluid Specifications:** Use only approved Honda fluids
+
+---
+
+*Adherence to this maintenance schedule helps ensure reliability, performance, and safety of your 2005 Honda CRV.*

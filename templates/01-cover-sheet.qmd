@@ -1,0 +1,25 @@
+---
+# Cover Sheet
+prepared_by: "Lucas Burlingham"
+document_type: "Technical Service Guide"
+guide_version: "1.0"
+date: 2026-11-04
+---
+
+# 2005 Honda CRV Oil Change Guide
+
+**Complete Service Documentation**
+
+---
+
+**Prepared by:** {{< meta prepared_by >}}
+
+**Date:** {{< meta date >}}
+
+**Document Type:** {{< meta document_type >}}
+
+**Version:** {{< meta guide_version >}}
+
+---
+
+*This document provides comprehensive instructions for changing the oil on a 2005 Honda CRV.*

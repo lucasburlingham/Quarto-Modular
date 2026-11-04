@@ -1,0 +1,109 @@
+---
+# Appendix A: Parts and Tools Checklist
+---
+
+# Appendix A: Parts and Tools Checklist
+
+## Required Tools Checklist
+
+Essential tools for completing an oil change:
+
+### Wrenches and Sockets
+
+- ☐ Socket set (3/8" drive recommended)
+- ☐ Ratchet handle
+- ☐ Socket for drain plug (typically 17mm)
+- ☐ Torque wrench (helpful for accurate drain plug installation)
+
+### Specialized Tools
+
+- ☐ Oil filter wrench or strap wrench
+- ☐ Funnel (at least 3" diameter opening)
+- ☐ Oil drain pan (5+ quart capacity)
+- ☐ Jack and jack stands (if lifting vehicle)
+- ☐ Wheel chocks or ramps (for safety)
+
+### Cleanup and Safety
+
+- ☐ Shop towels or cotton rags (absorbent)
+- ☐ Safety glasses
+- ☐ Latex or nitrile gloves
+- ☐ Absorbent material for spill cleanup
+- ☐ Flashlight or headlamp
+
+---
+
+## Required Parts Checklist
+
+### Oil and Filter
+
+- ☐ **Oil Filter:** Honda P/N 15400-PLM-A01 or equivalent
+  - OEM Honda preferred for quality assurance
+  - Alternative: Fram, Mobil 1, or Castrol equivalents
+  - Check compatibility with your vehicle year
+
+- ☐ **Motor Oil:** 4 quarts (3.7 liters) of Honda HG specification
+  - **Recommended Grades:**
+    - 0W-20 (preferred for cold climates)
+    - 5W-20 (all-season)
+  - **Acceptable Brands:** Honda, Mobil 1, Castrol, Shell Rotella, Valvoline
+
+### Optional Parts for Complete Service
+
+- ☐ Air filter replacement (Honda P/N 17220-RZA-Y00)
+- ☐ Cabin air filter (Honda P/N 80291-SDA-A01)
+- ☐ Drain plug gasket (if needed)
+
+---
+
+## Supplier Information
+
+### Local Options
+
+| Store | Phone | Address | Notes |
+|-------|-------|---------|-------|
+| AutoZone | | | Parts availability |
+| Advanced Auto Parts | | | Rental tool service |
+| O'Reilly Auto | | | Same-day delivery |
+| Local Honda Dealer | | | OEM parts guaranteed |
+
+### Online Options
+
+- Amazon (Prime shipping available)
+- RockAuto (bulk pricing)
+- EBay Motors
+- Official Honda Parts websites
+
+---
+
+## Estimated Costs
+
+| Item | Cost Range | Notes |
+|------|-----------|-------|
+| Oil Filter | $8-$15 | OEM slightly higher |
+| Motor Oil (4 qts) | $25-$50 | Synthetic more expensive |
+| **Total Parts** | **$35-$65** | Budget-friendly |
+
+---
+
+## Storage and Organization Tips
+
+- Keep all tools in one designated container
+- Label drain pan clearly to distinguish used oil
+- Store oil in a cool, dry location
+- Keep receipts with parts purchase
+- Maintain inventory list for future reference
+
+---
+
+## Pre-Purchase Inspection Checklist
+
+Before purchasing parts, verify:
+
+- ☐ Correct model year: 2005 Honda CRV
+- ☐ Oil filter number matches specification
+- ☐ Motor oil grade is 0W-20 or 5W-20
+- ☐ Motor oil is approved for Honda HG standard
+- ☐ All parts are in original packaging
+- ☐ Price is competitive with local dealers
+

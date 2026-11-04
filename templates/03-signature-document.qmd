@@ -1,0 +1,60 @@
+---
+# Approved Signature Document
+format: typst
+selected_signatories:
+  - "Lucas Burlingham"
+  - "Sarah Johnson"
+  - "Michael Chen"
+---
+
+```{=typst}
+#set table(stroke: 0.75pt + black)
+#set text(font: "Calibri", size: 11pt)
+
+= Approved Signature Document
+
+== Document Authorization
+
+This document has been prepared and reviewed according to applicable standards and procedures.
+
+---
+#table(
+  columns: (1.4fr, 1.6fr, 1.8fr, 1.6fr, 1.8fr, 1fr),
+  inset: 8pt,
+  stroke: 0.5pt + black,
+  align: center + horizon,
+  table.header([*Role*], [*Name*], [*Company*], [*Title*], [*Signature*], [*Date*]),
+  [Prepared By], [Lucas Burlingham], [Contractor], [Project Lead], [ ], [ ],
+  [Reviewed By], [Sarah Johnson], [Contractor], [QA Inspector], [ ], [ ],
+  [Approved By], [Michael Chen], [Contractor], [Technical Lead], [ ], [ ],
+)
+
+---
+
+== Document Information
+
+*Document Title:* 2005 Honda CRV Oil Change Guide
+
+*Version:* 1.0
+
+*Date Created:* November 4, 2026
+
+*Last Revised:* November 4, 2026
+
+*Status:* ✓ Final
+
+---
+
+== Approval Checklist
+
+- ☐ Technical accuracy verified
+- ☐ Safety procedures reviewed
+- ☐ Format and completeness confirmed
+- ☐ All required signatures obtained
+
+---
+
+#emph[This signature page certifies that this document has been authorized for distribution and use.]
+
+#align(center, text(size: 9pt, emph["Updated: November 4, 2026"]))
+```
