@@ -1,0 +1,13 @@
+people:
+  - name: Lucas Burlingham
+    title: Analyst
+    company: Microsoft
+    employee_type: Full-time
+  - name: Sarah Johnson
+    title: Project Manager
+    company: Tesla
+    employee_type: Contractor
+  - name: Michael Chen
+    title: Senior Project Lead
+    company: Google
+    employee_type: Contractor

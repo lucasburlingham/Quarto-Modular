@@ -1,0 +1,51 @@
+---
+title: "Software Version Document"
+toc: true
+number-sections: true
+format: typst
+cover-subtitle: "Software Version Document"
+cover-title: "LarryBird Environment Baseline"
+cover-tagline: "Version inventory, compatibility, and support reference"
+author: "Lucas Burlingham"
+date: "2026-11-04"
+cover-footer: "LarryBird"
+---
+
+{{< include /templates/01-cover-page-template.qmd >}}
+
+```{=typst}
+#let signature_signers = (
+	"Lucas Burlingham",
+	"Michael Chen",
+)
+```
+
+# Software Version Document
+This document lists the baseline software versions for the current environment and related support items.
+
+## Purpose
+The purpose of this document is to provide a quick reference for installed software versions, support status, and compatibility assumptions.
+
+## Current Software Inventory
+
+| Component | Version | Status | Notes |
+|---|---:|---|---|
+| Operating System | Windows 11 Pro | Active | Primary user environment |
+| Quarto | 1.11.9 | Active | Used for document generation |
+| Typst | Current project default | Active | Used for PDF rendering |
+| Visual Studio Code | Current installed version | Active | Primary authoring environment |
+| Git | Current installed version | Active | Source control |
+
+## Compatibility Notes
+- Quarto should be used from the project root to keep relative file references stable.
+- Typst is the supported rendering engine for generated PDFs.
+- Any document-specific metadata should remain project-scoped and consistent with the shared asset files.
+
+## Version Control Summary
+- All project files should be tracked in source control.
+- Updates to software versions should be recorded in this document when the environment changes.
+
+## Approvals
+This document is intended as a working reference and should be reviewed whenever tooling or environment versions change.
+
+{{< include /templates/99-signature-template.qmd >}}

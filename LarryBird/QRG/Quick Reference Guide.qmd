@@ -1,0 +1,52 @@
+---
+title: "Quick Reference Guide: Emergency Coffee Kit"
+toc: true
+number-sections: true
+format: typst
+cover-subtitle: "Quick Reference Guide"
+cover-title: "Emergency Coffee Kit"
+cover-tagline: "Fast setup instructions for late-night productivity"
+author: "Lucas Burlingham"
+date: "2026-11-04"
+cover-footer: "LarryBird"
+---
+
+{{< include /templates/01-cover-page-template.qmd >}}
+
+```{=typst}
+#let signature_signers = (
+	"Lucas Burlingham",
+	"Sarah Johnson",
+)
+```
+
+# Quick Reference Guide
+This quick reference guide covers a simple emergency coffee setup for a late-night work session.
+
+## Supplies
+- Coffee grounds
+- Water
+- Kettle or pot
+- Mug
+- Spoon
+- Optional: sugar or creamer
+
+## Setup Steps
+1. Fill the kettle with water.
+2. Place it on the heat source and bring it to a boil.
+3. Add coffee grounds to the mug or coffee filter.
+4. Pour hot water over the grounds.
+5. Steep for 3-5 minutes.
+6. Remove the filter or strain the grounds.
+7. Add sugar or creamer if desired.
+8. Enjoy.
+
+## Quick Troubleshooting
+- Too weak: use a little more coffee or steep a bit longer.
+- Too strong: use less coffee or add more water.
+- No heat: confirm the kettle is on and the burner is active.
+
+## Notes
+Keep the kit simple: coffee, water, heat, and a mug are enough for a fast reset.
+
+{{< include /templates/99-signature-template.qmd >}}

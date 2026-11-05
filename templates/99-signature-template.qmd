@@ -1,0 +1,38 @@
+```{=typst}
+#let people_data = yaml("/assets/people.yml")
+#let people = people_data.at("people", default: ())
+#let signers = signature_signers
+
+#heading(level: 2)[Signatures]
+
+
+#let signer-cells(signer) = {
+  let matches = people.filter(p => p.name == signer)
+  let person = if matches.len() > 0 { matches.at(0) } else { none }
+  let title = if person != none and person.title != none { person.title } else { if person == none { "Not found" } else { "" } }
+  let company = if person != none and person.company != none { person.company } else { "" }
+  let employee-type = if person != none and person.employee_type != none { person.employee_type } else { "" }
+
+  (
+    [#signer],
+    [#title],
+    [#company],
+    [#employee-type],
+    [],
+    [],
+  )
+}
+
+#if signers.len() == 0 [
+  #emph[No signers listed in signature_signers.]
+] else [
+  #table(
+    columns: (2fr, 2fr, 2fr, 2fr, 3fr, 1.5fr),
+    inset: 6pt,
+    stroke: 0.5pt,
+    table.header([Name], [Title], [Company], [Type], [Signature], [Date]),
+    ..signers.map(signer => signer-cells(signer)).flatten(),
+  )
+]
+```
+

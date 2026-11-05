@@ -1,0 +1,162 @@
+---
+title: "OwlTweet Software Version Document"
+format: typst
+toc: true
+number-sections: true
+cover-subtitle: "Software Version Document"
+cover-title: "OwlTweet Release Baseline"
+cover-tagline: "Release scope, dependencies, and support reference"
+author: "Lucas Burlingham"
+date: "2026-11-04"
+cover-footer: "OwlTweet"
+---
+
+{{< include /templates/01-cover-page-template.qmd >}}
+
+```{=typst}
+#let signature_signers = (
+   "Lucas Burlingham",
+   "Sarah Johnson",
+)
+```
+
+# Software Version Document
+
+## 1. Purpose
+
+This document describes the current software version of the OwlTweet application, its scope, release contents, dependencies, and support considerations. It is intended to provide a concise but complete reference for stakeholders, developers, and deployment teams.
+
+## 2. Document Control
+
+- Product: OwlTweet
+- Version: 1.4.0
+- Status: Sample Release
+- Prepared for: Internal review / demonstration
+- Last Updated: 2026-11-05
+
+## 3. Overview
+
+OwlTweet is a lightweight social posting and monitoring tool designed to help users publish short-form updates, track engagement trends, and manage scheduled content from a single dashboard. The system provides a streamlined workflow for drafting messages, reviewing performance, and coordinating post timing across multiple social channels.
+
+## 4. Release Summary
+
+The current release focuses on reliability, usability, and operational visibility. It introduces improved topic-based drafting, scheduled publishing, and clearer metrics reporting while preserving a simple user interface.
+
+### Included in this release
+
+- Draft composer for concise social posts
+- Scheduling and queue management
+- Engagement analytics summary
+- Content tagging and filtering
+- Audit trail for account activity
+- Basic error handling and status notifications
+
+### Excluded from this release
+
+- Advanced team collaboration workflow
+- Multi-account role-based permissions
+- API integrations for third-party analytics platforms
+- Automated A/B testing for copy variants
+
+## 5. Functional Scope
+
+### Core features
+
+1. Post authoring
+   - Compose and edit short-form social content.
+   - Support optional hashtags, mentions, and links.
+
+2. Scheduling
+   - Queue content for future publication.
+   - Review the publish calendar and manage conflicts.
+
+3. Monitoring
+   - Display engagement metrics such as impressions, clicks, and engagement rate.
+   - Provide recent activity summaries by content topic.
+
+4. Administration
+   - Manage account profiles and content labels.
+   - View operational logs and recent changes.
+
+## 6. System Requirements
+
+### Supported environments
+
+- Operating systems: Windows 10+, macOS 12+, Ubuntu 22.04+
+- Browser support: latest two versions of Chrome, Edge, Firefox, and Safari
+- Network: outbound access to public internet endpoints for publishing and metrics retrieval
+
+### Minimum software dependencies
+
+- Runtime: Node.js 20 LTS or later
+- Database: PostgreSQL 15
+- Package manager: npm 10+
+- Optional: Redis for queue and cache support
+
+## 7. Architecture
+
+The OwlTweet platform is structured around a simple event-driven design:
+
+- Client layer: web dashboard for content creation, monitoring, and administration
+- Application layer: authentication, scheduling, analytics aggregation, and posting logic
+- Data layer: persistent storage for posts, media metadata, and platform activity
+- Integration layer: outbound connectors for social platform APIs and notification services
+
+The application separates content orchestration from analytics reporting, which allows the system to process scheduled posts reliably while preserving observability for operational teams.
+
+## 8. Data and Security Considerations
+
+- User credentials are stored using secure, hashed representations.
+- API tokens are scoped to the minimum required permissions.
+- Post metadata is retained for audit, analytics, and troubleshooting.
+- Sensitive operational logs are restricted to authorized system administrators.
+
+## 9. Known Limitations
+
+- Publication latency may vary based on upstream platform availability.
+- Repeated metric polling can be temporarily throttled by external APIs.
+- Historical analytics are limited by retention settings.
+- Content preview fidelity may differ between client browsers.
+
+## 10. Version History
+
+### 1.4.0
+
+- Added topic-based content tagging
+- Improved scheduling interface and conflict warnings
+- Added summary cards for engagement metrics
+- Refined dashboard responsiveness and accessibility
+
+### 1.3.0
+
+- Added support for scheduled publishing queues
+- Improved status messaging for failed or delayed posts
+- Enhanced activity log filtering
+
+### 1.2.0
+
+- Introduced draft saving and version comparison
+- Added campaign overview page
+- Improved content validation for short-form posts
+
+## 11. Support and Maintenance
+
+OwlTweet follows a regular maintenance cadence with the following expectations:
+
+- Patch releases for critical defects and security updates
+- Monthly review of performance and reliability metrics
+- Quarterly review of feature requests and roadmap priorities
+- Documentation updates tied to each release candidate
+
+## 12. Risks and Dependencies
+
+- Dependency on third-party social platform APIs for publishing and retrieval
+- Need for reliable queue processing during peak usage periods
+- Potential operational impact of downstream service instability
+- Need for continued documentation updates as feature scope grows
+
+## 13. Summary
+
+The current OwlTweet release provides a practical foundation for short-form content publishing and engagement tracking. It balances usability, scheduling, and monitoring into a single platform while keeping operational dependencies and maintenance responsibilities clearly defined.
+
+{{< include /templates/99-signature-template.qmd >}}

@@ -1,0 +1,117 @@
+---
+title: "Quick Reference Guide: Something Interesting"
+format: typst
+toc: true
+number-sections: true
+cover-subtitle: "Quick Reference Guide"
+cover-title: "Something Interesting"
+cover-tagline: "Practical workflow summary for common operations"
+author: "Lucas Burlingham"
+date: "2026-11-04"
+cover-footer: "OwlTweet"
+---
+
+{{< include /templates/01-cover-page-template.qmd >}}
+
+```{=typst}
+#let signature_signers = (
+  "Sarah Johnson",
+  "Michael Chen",
+)
+```
+
+# Overview
+
+This quick reference guide provides a fast, practical summary for a small but useful workflow related to something interesting.
+
+Use this guide to:
+
+- understand the core idea quickly
+- complete the most common tasks without reading a full manual
+- troubleshoot the most likely issues
+
+
+{{< include /templates/99-signature-template.qmd >}}
+
+# Quick Start
+
+1. Open the project or app.
+2. Review the main configuration file.
+3. Run the default command.
+4. Validate the output.
+5. Save your changes and share the result.
+
+# Essential Commands
+
+```bash
+# Start the project
+project start
+
+# Run in development mode
+project dev
+
+# Build the final output
+project build
+
+# Check status
+project status
+```
+
+# Common Tasks
+
+## Create a New Item
+
+```bash
+project new "Example Item"
+```
+
+## Update Existing Data
+
+```bash
+project update --id 123 --name "Updated Name"
+```
+
+## Export Results
+
+```bash
+project export --format csv --output results.csv
+```
+
+# Key Settings
+
+- Mode: development or production
+- Output directory: `./output`
+- Log level: `info` or `debug`
+- API endpoint: configured in the environment file
+
+# Troubleshooting
+
+## The app will not start
+
+- Check that dependencies are installed.
+- Confirm the environment variables are configured.
+- Review the log output for missing files or invalid settings.
+
+## Output looks wrong
+
+- Verify the input data is correctly formatted.
+- Rebuild the project after making config changes.
+- Check whether the latest version of the relevant files was saved.
+
+## Performance is slow
+
+- Reduce the number of active tasks.
+- Disable optional features during testing.
+- Clear cached data before rerunning large jobs.
+
+# Best Practices
+
+- Keep configuration values documented.
+- Re-test after updates.
+- Use descriptive names for files and outputs.
+- Back up key results before major changes.
+
+# Summary
+
+When in doubt, start with the project status, verify the configuration, run the build, and check the output. That sequence usually identifies the issue quickly and keeps work moving.
+

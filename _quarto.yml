@@ -1,64 +1,13 @@
-# Quarto Project Configuration File
-# This file configures the entire Quarto project and its build settings
-
 project:
-  title: "2005 Honda CRV Oil Change Documentation"
-  output-dir: "_output"
+  title: "DefaultProject"
+  output-dir: _output
   render:
-    - index.qmd
+    - "LarryBird/*"
+    - "OwlTweet/*"
+    - "!templates/**"
 
-metadata-files:
-  - assets/people.yaml
+toc: true
+number-sections: true
 
-# Document configuration
-execute:
-  freeze: auto
-
-# Format configuration
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-    toc-depth: 3
-    toc-location: left
-    number-sections: true
-    number-depth: 3
-    code-fold: false
-    code-tools: true
-    self-contained: true
-    embed-resources: true
-    page-layout: article
-    margin-top: 1in
-    margin-bottom: 1in
-    margin-left: 1.25in
-    margin-right: 1.25in
-    linestretch: 1.5
-    fontsize: 11pt
-    mainfont: "Calibri"
-    
-  pdf:
-    toc: true
-    toc-depth: 3
-    number-sections: true
-    number-depth: 3
-    code-fold: false
-
-# Project metadata
-metadata:
-  author: "Lucas Burlingham"
-  date-modified: today
-  language: en
-  description: |
-    A comprehensive guide to changing oil on a 2005 Honda CRV, 
-    including parts lists, maintenance schedules, and authorization documentation.
-
-# Document chapters/components (alternative structure)
-# Uncomment below if using separate chapters instead of includes
-# chapters:
-#   - 01-cover-sheet.qmd
-#   - 02-toc.qmd
-#   - 03-signature-document.qmd
-#   - 04-oil-change-guide.qmd
-#   - appendix-a.qmd
-#   - appendix-b.qmd
+metadata-files: 
+  - assets/people.yml
