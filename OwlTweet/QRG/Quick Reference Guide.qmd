@@ -17,6 +17,8 @@ cover-footer: "OwlTweet"
 #let signature_signers = (
   "Sarah Johnson",
   "Michael Chen",
+  "Priya Patel",
+  "David Martinez"
 )
 ```
 

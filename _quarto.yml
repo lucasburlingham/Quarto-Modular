@@ -11,3 +11,7 @@ number-sections: true
 
 metadata-files: 
   - assets/people.yml
+
+format:
+  html:
+    css: /assets/styles.css

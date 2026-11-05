@@ -26,13 +26,12 @@
 #if signers.len() == 0 [
   #emph[No signers listed in signature_signers.]
 ] else [
-  #table(
-    columns: (2fr, 2fr, 2fr, 2fr, 3fr, 1.5fr),
-    inset: 6pt,
-    stroke: 0.5pt,
-    table.header([Name], [Title], [Company], [Type], [Signature], [Date]),
-    ..signers.map(signer => signer-cells(signer)).flatten(),
-  )
+    #table(
+      columns: (2.5fr, 2.5fr, 2fr, 2fr, 3fr, 1.5fr),
+      inset: 6pt,
+      stroke: 0.5pt,
+      table.header([Name], [Title], [Company], [Type], [Signature], [Date]),
+      ..signers.map(signer => signer-cells(signer)).flatten(),
+    )
 ]
 ```
-

@@ -11,3 +11,35 @@ people:
     title: Senior Project Lead
     company: Google
     employee_type: Contractor
+  - name: Priya Patel
+    title: Product Owner
+    company: Amazon
+    employee_type: Full-time
+  - name: David Martinez
+    title: Software Engineer II
+    company: Adobe
+    employee_type: Full-time
+  - name: Emily Nguyen
+    title: Quality Assurance Lead
+    company: Salesforce
+    employee_type: Full-time
+  - name: Robert Kim
+    title: Technical Program Manager
+    company: IBM
+    employee_type: Full-time
+  - name: Aisha Rahman
+    title: Business Analyst
+    company: Oracle
+    employee_type: Contractor
+  - name: James Wilson
+    title: Solutions Architect
+    company: Cisco
+    employee_type: Full-time
+  - name: Sofia Garcia
+    title: UX Designer
+    company: Spotify
+    employee_type: Full-time
+  - name: Daniel Brooks
+    title: DevOps Engineer
+    company: Atlassian
+    employee_type: Full-time

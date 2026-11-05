@@ -1,0 +1,42 @@
+/* Project-wide stylesheet for HTML outputs */
+
+:root {
+  --body-max-width: 980px;
+  --text-color: #1f2933;
+  --muted-color: #5b6670;
+  --rule-color: #d9e2ec;
+  --accent-color: #1f6feb;
+}
+
+body {
+  color: var(--text-color);
+}
+
+main.content,
+#quarto-content {
+  max-width: var(--body-max-width);
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: 0.01em;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--rule-color);
+}
+
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.small-note,
+.muted {
+  color: var(--muted-color);
+}
