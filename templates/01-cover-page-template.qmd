@@ -1,6 +1,29 @@
 ```{=typst}
+#let icon-badge(glyph) = box(
+	stroke: (paint: rgb("#c9d2dc"), thickness: 0.8pt),
+	fill: rgb("#f5f7fa"),
+	radius: 999pt,
+	inset: (x: 11pt, y: 6pt),
+)[
+	#text(size: 12pt, fill: rgb("#1f2933"))[#glyph]
+]
+
+#let image-badge(path) = box(
+	stroke: (paint: rgb("#c9d2dc"), thickness: 0.8pt),
+	fill: rgb("#f5f7fa"),
+	radius: 999pt,
+	inset: (x: 8pt, y: 6pt),
+)[
+	#image(path, width: 15pt)
+]
+
 #align(center, [
-	#v(12%)
+	#v(6%)
+	#image-badge("/assets/icon-top.png")
+	#h(2.2em)
+	#icon-badge("⬢")
+
+	#v(1.8em)
 	#text(size: 12pt, fill: rgb("#666666"))[{{< meta cover-subtitle >}}]
 
 	#v(1.2em)
@@ -9,12 +32,33 @@
 	#v(1em)
 	#text(size: 16pt, fill: rgb("#333333"))[{{< meta cover-tagline >}}]
 
-	#v(4em)
+	#v(2.2em)
+	#box(
+		width: 74%,
+		stroke: (paint: black, thickness: 0.8pt),
+		inset: 12pt,
+	)[
+		#text(size: 11pt)[742 Evergreen Terrace\\Springfield, IL 62704]
+	]
+
+	#v(0.9em)
+	#box(
+		width: 74%,
+		stroke: (paint: black, thickness: 0.8pt),
+		inset: 12pt,
+	)[
+		#text(size: 11pt)[1890 Harbor View Drive\\San Diego, CA 92101]
+	]
+
+	#v(2.4em)
 	#text(size: 12pt)[{{< meta author >}}]
 	#v(0.6em)
 	#text(size: 11pt, fill: rgb("#666666"))[{{< meta date >}}]
 
-	#v(5em)
+	#v(2.5em)
+	#icon-badge("◎")
+
+	#v(1.8em)
 	#text(size: 10pt, fill: rgb("#777777"))[{{< meta cover-footer >}}]
 ])
 
